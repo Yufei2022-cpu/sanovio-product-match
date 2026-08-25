@@ -1,0 +1,15 @@
+[project]
+name = "sanovio-product-match"
+version = "0.1.0"
+description = "Hospital-supplier product replacement matching system"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+where = ["backend"]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-asyncio>=0.21",
+    "httpx>=0.24",
+]

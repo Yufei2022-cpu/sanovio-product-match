@@ -1,0 +1,11 @@
+internal_id	Artikelbezeichnung	Marke	Artikelnummer	Jahresmenge	Bestellmengeneinheit	Basismengeneinheiten pro BME	Basismengeneinheit	GTIN	EAN	MDR-Klasse	Netto-Zielpreis	Währung
+1	Nitrilhandschuh Sensicare Ice blau L	Medline	486803	4000	Box	200	Stück	'04046719012345	'4046719012348	I	0.019	CHF
+2	Verbandstoff-Wundversorgung-Set steril	Hartmann	4754183	10000	Stk	1	Stück	'04046719098765	'4046719098768	IIa	0.58	CHF
+3	Einmalspritze 10 ml Luer-Lock steril	B. Braun	9154010	15000	Pack	100	Stück	'04040456781234	'4040456781237	IIa	0.12	CHF
+4	Infusionsbesteck Intrafix Safe	B. Braun	4169125	8500	Stk	1	Stück	'04040456783456	'4040456783456	IIa	1.35	CHF
+5	OP-Maske mit Bindebändern	Hartmann	2912301	22000	Box	50	Stück	'04046719111223	'4046719111226	I	0.08	CHF
+6	Kanüle Sterican 0,8 × 40 mm	B. Braun	4657689	18000	Pack	100	Stück	'04040456999887	'4040456999880	IIa	0.06	CHF
+7	Desinfektionstücher Mikrozid AF	Schülke	70003456	1200	Dose	100	Tuch	'04012345001234	'4012345001237	IIa	3.95	CHF
+8	Einmalhandschuh Latex puderfrei M	Ansell	9265432	9000	Box	100	Stück	'05010023456789	'5010023456784	I	0.11	CHF
+9	Urinbecher 100 ml steril	Sarstedt	751345	30000	Stk	1	Stück	'04012345678901	'4012345678906	I	0.04	CHF
+10	Wundpflaster elastic 6 cm × 5 m	Hartmann	9001234	2500	Rolle	1	Rolle	'04046719222334	'4046719222339	I	1.75	CHF
